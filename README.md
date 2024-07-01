@@ -14,7 +14,7 @@
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 <p align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Liquid&message=Create+React+App&color=09D3AC&logoColor=09D3AC" alt="Liquid">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=React&message=Create+React+App&color=222222&logoColor=09D3AC" alt="Create React App">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=Create+React+App&logoColor=09D3AC&label=" alt="Create React App">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" alt="Node.js">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=" alt="Express">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" alt="MongoDB">
