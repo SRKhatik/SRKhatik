@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-- 🔭 I’m currently working on **Coding Skills.**
+- 🔭 I’m currently working as a **Shopify Developer.**
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/SRKhatik?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SRKhatik" height="30" width="40" /></a>
 - 💬 Ask me about **React js, JavaScript, HTML,CSS,Bootstrap,MySql, NodeJS, MongoDB, ExpressJS, **
